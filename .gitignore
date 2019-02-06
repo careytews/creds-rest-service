@@ -1,0 +1,5 @@
+/vendor/
+creds-rest-service
+debug
+/go/
+.DS_Store
